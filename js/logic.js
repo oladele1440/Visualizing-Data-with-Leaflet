@@ -1,5 +1,5 @@
 var mapBox = "https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/256/{z}/{x}/{y}?" + 
-"access_token=pk.eyJ1IjoiamVubnljaGluNjUwIiwiYSI6ImNqZHdnbGEzbDQzazAzNHFoaXNzenR4Z2MifQ.Tjt7336QJMX553gETPX9Ag";
+"access_token=pk.pk.eyJ1Ijoib2xhZGVsZTE0NDAiLCJhIjoiY2poZGphdHdxMGtuZDNkcGNmeG5pcHZ6aSJ9.UxSAEysQXVaB_aEdG5OWJw";
 
 var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson&maxlongitude=-20&minlongitude=150&maxlatitude=90&minlatitude=-90";
 
